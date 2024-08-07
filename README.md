@@ -1,1 +1,73 @@
 # KavyaSri449.github.io
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio - K. Kavyasri</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <h1>K. Kavyasri</h1>
+            </div>
+            <ul class="nav-links">
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="about">
+            <h2>About Me</h2>
+            <img src="C:\Users\Kavya\OneDrive\รูปภาพ\passport.jpg" alt="Profile Image" class="profile-image">
+            <p>I am K. Kavyasri, currently
+                 pursuing my B.Tech in Computer Science and Engineering from Kallam Haranadha Reddy Institute of Technology, Guntur. 
+                 I have completed my intermediate education from Sri Chaitanya Junior College. 
+                 I am passionate about web development, machine learning.
+                 I am a self moativated,determinat and hard working person.
+                 My areas of interests are singing and reading books.</p>
+            
+        </section>
+        <section id="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>1.C programming</li>
+                <li>2.Python</li>
+                <li>3.Basics of HTMl and CSS</li>  
+            </ul>
+        </section>
+        <section id="projects">
+            <h2>Projects</h2>
+            <div class="project">
+                <h3>Project 1</h3>
+                <p>Community Service Project on crop rotation </p>
+                <a href="https://link-to-your-project1.com" target="_blank">View Project</a>
+            </div>
+            <div class="project">
+                <h3>Project 2</h3>
+                <p>My portfolio:This my personalized portfolio,it consists all my details.I have used html and CSS to develop this </p>
+                <a href="https://link-to-your-project2.com" target="_blank">View Project</a>
+            </div>
+            <!-- Add more projects as needed -->
+        </section>
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>You can reach me at:</p>
+            <ul>
+                <li>Email: <a href="kanikaramkavyasri449@gmail.com">kanikaramkavyasri449@gmail.com</a></li>
+                <li>LinkedIn: <a href="www.linkedin.com/in/kanikaram-kavya-sri-b97a90312" target="_blank">www.linkedin.com/in/kanikaram-kavya-sri-b97a90312</a></li>
+                <li>GitHub: <a href="https://github.com/KavyaSri449" target="_blank">https://github.com/KavyaSri449</a></li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 K. Kavyasri</p>
+    </footer>
+</body>
+</html>
